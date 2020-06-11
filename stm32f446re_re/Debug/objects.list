@@ -1,0 +1,6 @@
+"Src/Bare_Metal_MPU_6050.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f446retx.o"
+"drivers/Src/stm32f446xx_gpio_driver.o"
+"drivers/Src/stm32f446xx_i2c_driver.o"
+"drivers/Src/stm32f446xx_spi_driver.o"
